@@ -21,4 +21,8 @@ export class AppComponent {
   test2() {
 
   }
+
+  myTest2() {
+
+  }
 }
